@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Streamlit cache
+.streamlit/
+
+# Ollama models and cache
+ollama_models/
+ollama_cache/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
